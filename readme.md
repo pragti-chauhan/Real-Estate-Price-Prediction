@@ -1,7 +1,4 @@
 # Real Estate Price Prediction - Bangalore
-Default Look-
-![](Project_pic 1.jpeg)
-On entering some values-
 ![](Project_pic 2.jpeg)
 
 ## About
