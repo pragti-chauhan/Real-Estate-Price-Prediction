@@ -1,5 +1,5 @@
 # Real Estate Price Prediction - Bangalore
-![](Project_pic 2.jpeg)
+![Project_pic 2](https://github.com/pragti-chauhan/Real-Estate-Price-Prediction/assets/66918663/c55f9696-a430-4a3d-ba80-d7a090af319b)
 
 ## About
 This is a data science project, where aim is to predict property prices of a place (Bangalore in this case) using features like location, property area, bhk, etc. Prediction is done using a machine learning classifier and project has a web development component based on Python Flask server, and deployed over cloud (Amazon EC2).
